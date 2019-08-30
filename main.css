@@ -1,0 +1,60 @@
+.footer {
+    position: fixed;
+    overflow: hidden;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: darkgrey;
+    padding: 5px;
+}
+body {
+    background-color: green;
+}
+.h1 {
+    text-align: center;
+    margin: 75px;
+    padding: 20px;
+    margin-bottom: 0;
+    border: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.hl {
+    height: .1cm;
+    width:  98%;
+    margin: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 0;
+       
+
+}
+hr {
+    background-color: red;
+}
+.p {
+    text-align: center;
+    margin: 50px;
+    font-family: 'Roboto', sans-serif;
+}
+ 
+.link1 {
+    text-decoration: none;
+    display: inline-block;
+    padding: 5px;
+    margin-top: 2px;
+    color: red;
+    margin-bottom: 2px;
+    margin-right: 2px;
+    margin-left: 2px;
+}
+.link2 {
+    text-decoration: none;
+    display: inline-block;
+    padding: 5px;
+    margin-top: 2px;
+    color: red;
+    margin-bottom: 2px;
+    margin-right: 2px;
+    margin-left: 2px;
+}
